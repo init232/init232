@@ -4,7 +4,7 @@
  -->
  
  
-     <p align="center">
+<p align="center">
         <a href="https://github.com/init232" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api?username=init232&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
         </a>
