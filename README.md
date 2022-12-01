@@ -1,8 +1,4 @@
-## <p align="center">Hi 👋, I'm Savuer</p>
-
-### <p align="center"> A passionate frontend developer from China </p>
-
-### <p align="center"> An avid :soccer:soccer and :basketball:basketball fan </p>
+## <p align="center">Hi 👋</p>
 
 <p align="center">
 	<a href="https://github.com/programmer-zhang" target="_blank">
