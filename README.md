@@ -1,5 +1,5 @@
 ## <p align="center">Hi👋</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
 <p align="center">
 	<a href="https://github.com/init232" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=init232&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
