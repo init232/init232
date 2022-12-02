@@ -1,4 +1,4 @@
-## <p align="center">Hi 👋</p>
+## <p align="center">Hi👋</p>
 
 <p align="center">
 	<a href="https://github.com/init232" target="_blank">
