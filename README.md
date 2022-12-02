@@ -3,13 +3,13 @@
 <p align="center">
 	<a href="https://github.com/init232" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=init232&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
-	</a> <br>
+	</a> 
 	<a href="https://github.com/init232" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=init232&layout=compact&hide=html&theme=dark" width="45%" alt="savuer's github top skills"/>
 	</a> <br>
-	<a href="https://github.com/init232" target="_blank">
+<!-- 	<a href="https://github.com/init232" target="_blank">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=init232&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
-	</a>
+	</a> -->
 </p>
 
 <p align="center">
